@@ -10,6 +10,8 @@ allí se agregaron las funciones para restablecer la contraseña, cambiar de ema
 
 Se conecta a firebase donde se maneja la base de datos para el control de usuarios. 
 ![image](https://user-images.githubusercontent.com/53588767/113199655-003b4500-922d-11eb-8ad1-67d1f0579e48.png)
+![image](https://user-images.githubusercontent.com/53588767/113200168-9bccb580-922d-11eb-91a2-766c9e168983.png)
+
 
 
 El apk de esta se encuentra junto al código subido a github, este apk se denomina: app-debug.apk
