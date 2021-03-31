@@ -2,16 +2,16 @@ Es una aplicación denominada "AkerApp", en ella se pueden crear usuarios a trav
 
 Al ingresar a la app puede ver una pantalla para login que nos muestra los campos para ingreso de usuario 
 y las opciones para restablecer contraseña y para registro.
-![Image](https://user-images.githubusercontent.com/53588767/113199756-1c3ee680-922d-11eb-92bd-debf7c53d4b1.jpeg)
+![image](https://user-images.githubusercontent.com/53588767/113199756-1c3ee680-922d-11eb-92bd-debf7c53d4b1.jpeg)
 
 Al ingresar a la opción: ¿No esta registrado?, nos direccionará a la pantalla donde se encuentran los campos para el registro de usuario:
-![Image](https://user-images.githubusercontent.com/53588767/113202141-03840000-9230-11eb-8481-222e6897679b.jpeg)
+![image](https://user-images.githubusercontent.com/53588767/113202141-03840000-9230-11eb-8481-222e6897679b.jpeg)
 
 
 
 En la pantalla de inicio se pueden ver varios campos y botones con los que el usuario puede interactuar,
 allí se agregaron las funciones para restablecer la contraseña, cambiar de email y cambio de contraseña.
-![Image](https://user-images.githubusercontent.com/53588767/113199910-498b9480-922d-11eb-93d6-9059fb6d9b33.jpeg)
+![image](https://user-images.githubusercontent.com/53588767/113199910-498b9480-922d-11eb-93d6-9059fb6d9b33.jpeg)
 
 
 Se conecta a firebase donde se maneja la base de datos para el control de usuarios. 
