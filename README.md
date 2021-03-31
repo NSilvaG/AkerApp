@@ -1,4 +1,4 @@
-Es una aplicación denominada "AkerApp", en ella se pueden crear usuarios a travez de su correo y contraseña, se puede registrar con el nombre, apellido, correo electronico y contraseña, tiene la opcion para restablecer contraseña a travez de un correo electronico y desde la pantalla de inicio. 
+Es una aplicación denominada "AkerApp", en ella se pueden crear usuarios a travez de su correo y contraseña, se puede registrar con el nombre, apellido, correo electronico y contraseña, tiene la opcion para restablecer contraseña desde la pantalla de login y en la ventanana de inicio. 
 
 Al ingresar a la app puede ver una pantalla para login que nos muestra los campos para ingreso de usuario 
 y las opciones para restablecer contraseña y para registro.
