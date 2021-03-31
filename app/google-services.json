@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515905224761",
+    "project_id": "akerapp-164b2",
+    "storage_bucket": "akerapp-164b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515905224761:android:c68563827cbacc1aa78de8",
+        "android_client_info": {
+          "package_name": "com.example.akerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515905224761-5hia0dqgjr0ie91q1gt57v36v42m8540.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtwWIf2h7vnAKmMgfAWeLOX0FyhFXaIC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515905224761-5hia0dqgjr0ie91q1gt57v36v42m8540.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
