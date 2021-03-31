@@ -13,6 +13,4 @@ Se conecta a firebase donde se maneja la base de datos para el control de usuari
 ![image](https://user-images.githubusercontent.com/53588767/113200168-9bccb580-922d-11eb-91a2-766c9e168983.png)
 
 
-
-El apk de esta se encuentra junto al código subido a github, este apk se denomina: app-debug.apk
-
+El apk de esta aplicación se puede descargar aqui: https://drive.google.com/file/d/1RqW1W-zflODGbiak5_vd6QEW9cu1J7hs/view?usp=sharing
